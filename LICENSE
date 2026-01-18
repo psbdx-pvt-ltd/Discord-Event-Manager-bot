@@ -1,0 +1,35 @@
+PSBDx CUSTOM OPEN SOURCE LICENSE
+Version 1.1
+
+Copyright (c) 2025 PSBDx. All rights reserved.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. DEFINITIONS
+   "Software" refers to the "Discord Event Manager Bot" source code and associated documentation.
+   "Author" refers to PSBDx.
+
+2. GRANT OF RIGHTS
+   Subject to the terms and conditions of this License, the Author grants you a non-exclusive, royalty-free right to:
+   a. Download and use the Software for private or public use.
+   b. Modify the Software for personal customization (e.g., changing colors, text messages, or adding helper functions).
+   c. Distribute copies of the Software, provided this License remains included.
+
+3. RESTRICTIONS ON MODIFICATION
+   While modification is permitted for customization, strict restrictions apply to the core integrity of the Software. You are NOT permitted to modify, remove, reverse engineer, or obfuscate the following "Protected Components":
+
+   a. CORE WORKFLOW: The fundamental logic of how events are created, stored, and retrieved.
+   b. MAIN ALGORITHMS: The underlying code responsible for the dynamic storage system (Discord Channel/Local toggling) and thread management.
+   c. CREDIT & ATTRIBUTION: The "/about" command and its response flow.
+      - You may NOT remove the "Developed by PSBDx" credit.
+      - You may NOT alter the response structure or flow of the "/about" command.
+      - You may NOT claim this Software as your own original work.
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. VOLUNTARY SUPPORT
+   The Author may, at their sole discretion, choose to provide assistance, guidance, or fixes for errors and bugs reported by users. However, the Author is UNDER NO OBLIGATION to provide such support, updates, or maintenance. The Author reserves the right to ignore, decline, or prioritize support requests as they see fit. Failure to receive support does not constitute a breach of this License.
+
+6. TERMINATION
+   Any use of the Software in violation of the restrictions in Section 3 automatically terminates your rights under this License.
